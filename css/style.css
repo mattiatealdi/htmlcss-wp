@@ -21,9 +21,13 @@
   margin-bottom: 50px;
 }
 
+.logo img{
+  height: 100px;
+}
+
 nav{
   height:100px;
-  margin-bottom:20px;
+  margin-bottom:-30px;
 }
 
 nav li{
